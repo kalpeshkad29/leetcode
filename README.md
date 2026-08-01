@@ -12,6 +12,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kalpeshkad29/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kalpeshkad29/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/kalpeshkad29/leetcode/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/kalpeshkad29/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kalpeshkad29/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kalpeshkad29/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -72,6 +73,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kalpeshkad29/leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/kalpeshkad29/leetcode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -86,4 +88,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/kalpeshkad29/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
