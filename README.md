@@ -100,4 +100,16 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kalpeshkad29/leetcode/tree/master/0022-generate-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kalpeshkad29/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kalpeshkad29/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kalpeshkad29/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
