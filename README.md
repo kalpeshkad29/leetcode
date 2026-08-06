@@ -70,6 +70,7 @@
 | [0007-reverse-integer](https://github.com/kalpeshkad29/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kalpeshkad29/leetcode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/kalpeshkad29/leetcode/tree/master/0268-missing-number) |
+| [2119-a-number-after-a-double-reversal](https://github.com/kalpeshkad29/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 ## Binary Search
 |  |
 | ------- |
