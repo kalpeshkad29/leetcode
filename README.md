@@ -22,6 +22,7 @@
 | [0503-next-greater-element-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/kalpeshkad29/leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/kalpeshkad29/leetcode/tree/master/0735-asteroid-collision) |
+| [1004-max-consecutive-ones-iii](https://github.com/kalpeshkad29/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/kalpeshkad29/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Two Pointers
 |  |
@@ -77,6 +78,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kalpeshkad29/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/kalpeshkad29/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/kalpeshkad29/leetcode/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/kalpeshkad29/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -143,5 +145,10 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalpeshkad29/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/kalpeshkad29/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/kalpeshkad29/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/kalpeshkad29/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
