@@ -18,6 +18,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kalpeshkad29/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kalpeshkad29/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/kalpeshkad29/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kalpeshkad29/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/kalpeshkad29/leetcode/tree/master/0268-missing-number) |
 | [0503-next-greater-element-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/kalpeshkad29/leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/kalpeshkad29/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kalpeshkad29/leetcode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
