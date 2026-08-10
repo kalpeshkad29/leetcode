@@ -1,7 +1,6 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
         n=len(nums)
-        
         freq={}
         for i in range(0,n+1):
             freq[i]=0
@@ -10,5 +9,6 @@ class Solution:
         for k,v in freq.items():
             if v==0:
                 return k
+            
             
         
