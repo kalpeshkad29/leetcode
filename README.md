@@ -23,6 +23,7 @@
 | [0268-missing-number](https://github.com/kalpeshkad29/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kalpeshkad29/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/kalpeshkad29/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/kalpeshkad29/leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/kalpeshkad29/leetcode/tree/master/0735-asteroid-collision) |
 | [1004-max-consecutive-ones-iii](https://github.com/kalpeshkad29/leetcode/tree/master/1004-max-consecutive-ones-iii) |
