@@ -197,4 +197,5 @@
 |  |
 | ------- |
 | [1045-customers-who-bought-all-products](https://github.com/kalpeshkad29/leetcode/tree/master/1045-customers-who-bought-all-products) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/kalpeshkad29/leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 <!---LeetCode Topics End-->
