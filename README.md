@@ -193,4 +193,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kalpeshkad29/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Database
+|  |
+| ------- |
+| [1045-customers-who-bought-all-products](https://github.com/kalpeshkad29/leetcode/tree/master/1045-customers-who-bought-all-products) |
 <!---LeetCode Topics End-->
