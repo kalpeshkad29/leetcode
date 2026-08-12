@@ -196,6 +196,7 @@
 ## Database
 |  |
 | ------- |
+| [0610-triangle-judgement](https://github.com/kalpeshkad29/leetcode/tree/master/0610-triangle-judgement) |
 | [1045-customers-who-bought-all-products](https://github.com/kalpeshkad29/leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/kalpeshkad29/leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/kalpeshkad29/leetcode/tree/master/1789-primary-department-for-each-employee) |
