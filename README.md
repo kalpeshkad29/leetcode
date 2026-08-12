@@ -55,6 +55,7 @@
 | [0015-3sum](https://github.com/kalpeshkad29/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kalpeshkad29/leetcode/tree/master/0018-4sum) |
 | [0268-missing-number](https://github.com/kalpeshkad29/leetcode/tree/master/0268-missing-number) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/kalpeshkad29/leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2607-make-k-subarray-sums-equal](https://github.com/kalpeshkad29/leetcode/tree/master/2607-make-k-subarray-sums-equal) |
 ## Hash Table
 |  |
@@ -208,4 +209,8 @@
 | [1045-customers-who-bought-all-products](https://github.com/kalpeshkad29/leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/kalpeshkad29/leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/kalpeshkad29/leetcode/tree/master/1789-primary-department-for-each-employee) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/kalpeshkad29/leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 <!---LeetCode Topics End-->
