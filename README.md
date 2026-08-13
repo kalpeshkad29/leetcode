@@ -78,6 +78,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kalpeshkad29/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2615-sum-of-distances](https://github.com/kalpeshkad29/leetcode/tree/master/2615-sum-of-distances) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/kalpeshkad29/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kalpeshkad29/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kalpeshkad29/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Divide and Conquer
 |  |
@@ -151,6 +152,7 @@
 | [1446-consecutive-characters](https://github.com/kalpeshkad29/leetcode/tree/master/1446-consecutive-characters) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/kalpeshkad29/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/kalpeshkad29/leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kalpeshkad29/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -229,4 +231,8 @@
 | ------- |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/kalpeshkad29/leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kalpeshkad29/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+## Counting
+|  |
+| ------- |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kalpeshkad29/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 <!---LeetCode Topics End-->
