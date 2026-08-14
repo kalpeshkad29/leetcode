@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/kalpeshkad29/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/kalpeshkad29/leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/kalpeshkad29/leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/kalpeshkad29/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/kalpeshkad29/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kalpeshkad29/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kalpeshkad29/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalpeshkad29/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/kalpeshkad29/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kalpeshkad29/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/kalpeshkad29/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -240,4 +242,8 @@
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/kalpeshkad29/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kalpeshkad29/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/kalpeshkad29/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
