@@ -38,6 +38,7 @@
 | [0735-asteroid-collision](https://github.com/kalpeshkad29/leetcode/tree/master/0735-asteroid-collision) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kalpeshkad29/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1004-max-consecutive-ones-iii](https://github.com/kalpeshkad29/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/kalpeshkad29/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kalpeshkad29/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kalpeshkad29/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kalpeshkad29/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -75,6 +76,7 @@
 | [0268-missing-number](https://github.com/kalpeshkad29/leetcode/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/kalpeshkad29/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kalpeshkad29/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1331-rank-transform-of-an-array](https://github.com/kalpeshkad29/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kalpeshkad29/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/kalpeshkad29/leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kalpeshkad29/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -93,6 +95,7 @@
 | [0219-contains-duplicate-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/kalpeshkad29/leetcode/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/kalpeshkad29/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1331-rank-transform-of-an-array](https://github.com/kalpeshkad29/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kalpeshkad29/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2615-sum-of-distances](https://github.com/kalpeshkad29/leetcode/tree/master/2615-sum-of-distances) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/kalpeshkad29/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
