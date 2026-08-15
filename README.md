@@ -48,6 +48,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kalpeshkad29/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kalpeshkad29/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kalpeshkad29/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/kalpeshkad29/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kalpeshkad29/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/kalpeshkad29/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kalpeshkad29/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -109,6 +110,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/kalpeshkad29/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1331-rank-transform-of-an-array](https://github.com/kalpeshkad29/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/kalpeshkad29/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kalpeshkad29/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2615-sum-of-distances](https://github.com/kalpeshkad29/leetcode/tree/master/2615-sum-of-distances) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/kalpeshkad29/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
