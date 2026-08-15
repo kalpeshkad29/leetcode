@@ -4,10 +4,16 @@ class Solution:
         freq2 = {}
 
         for word in words1:
-            freq1[word] = freq1.get(word, 0) + 1
+            if word in freq1:
+                freq1[word]+=1
+            else:
+                freq1[word]=1
 
         for word in words2:
-            freq2[word] = freq2.get(word, 0) + 1
+            if word in freq2:
+                freq2[word]+=1
+            else:
+                freq2[word]=1
 
         count = 0
 
