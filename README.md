@@ -177,6 +177,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kalpeshkad29/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0092-reverse-linked-list-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/kalpeshkad29/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/kalpeshkad29/leetcode/tree/master/0203-remove-linked-list-elements) |
