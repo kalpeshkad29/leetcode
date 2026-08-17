@@ -185,11 +185,13 @@
 | [0328-odd-even-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/kalpeshkad29/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/0206-reverse-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -217,6 +219,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/kalpeshkad29/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/kalpeshkad29/leetcode/tree/master/0735-asteroid-collision) |
+| [2487-remove-nodes-from-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -237,6 +240,7 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0503-next-greater-element-ii) |
+| [2487-remove-nodes-from-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
 | ------- |
