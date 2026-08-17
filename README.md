@@ -59,6 +59,7 @@
 | [2799-count-complete-subarrays-in-an-array](https://github.com/kalpeshkad29/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/kalpeshkad29/leetcode/tree/master/2942-find-words-containing-character) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/kalpeshkad29/leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/kalpeshkad29/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kalpeshkad29/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
@@ -120,6 +121,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kalpeshkad29/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2615-sum-of-distances](https://github.com/kalpeshkad29/leetcode/tree/master/2615-sum-of-distances) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/kalpeshkad29/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/kalpeshkad29/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kalpeshkad29/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kalpeshkad29/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Divide and Conquer
@@ -195,6 +197,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/kalpeshkad29/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
