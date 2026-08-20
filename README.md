@@ -253,6 +253,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/kalpeshkad29/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/kalpeshkad29/leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/kalpeshkad29/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2390-removing-stars-from-a-string](https://github.com/kalpeshkad29/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/kalpeshkad29/leetcode/tree/master/2942-find-words-containing-character) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kalpeshkad29/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Stack
@@ -273,6 +274,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kalpeshkad29/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kalpeshkad29/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/kalpeshkad29/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
@@ -308,6 +310,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/kalpeshkad29/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/kalpeshkad29/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kalpeshkad29/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2390-removing-stars-from-a-string](https://github.com/kalpeshkad29/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/kalpeshkad29/leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Sliding Window
 |  |
