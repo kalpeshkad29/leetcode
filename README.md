@@ -246,6 +246,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalpeshkad29/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/kalpeshkad29/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kalpeshkad29/leetcode/tree/master/0022-generate-parentheses) |
+| [0071-simplify-path](https://github.com/kalpeshkad29/leetcode/tree/master/0071-simplify-path) |
 | [0844-backspace-string-compare](https://github.com/kalpeshkad29/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kalpeshkad29/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kalpeshkad29/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -260,6 +261,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kalpeshkad29/leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/kalpeshkad29/leetcode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/kalpeshkad29/leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/kalpeshkad29/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kalpeshkad29/leetcode/tree/master/0225-implement-stack-using-queues) |
