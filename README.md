@@ -24,6 +24,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/kalpeshkad29/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/kalpeshkad29/leetcode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kalpeshkad29/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/kalpeshkad29/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kalpeshkad29/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -162,6 +163,7 @@
 | [0007-reverse-integer](https://github.com/kalpeshkad29/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kalpeshkad29/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/kalpeshkad29/leetcode/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kalpeshkad29/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/kalpeshkad29/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/kalpeshkad29/leetcode/tree/master/0268-missing-number) |
 | [2119-a-number-after-a-double-reversal](https://github.com/kalpeshkad29/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
@@ -263,6 +265,7 @@
 | [0020-valid-parentheses](https://github.com/kalpeshkad29/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/kalpeshkad29/leetcode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/kalpeshkad29/leetcode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kalpeshkad29/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kalpeshkad29/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kalpeshkad29/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kalpeshkad29/leetcode/tree/master/0232-implement-queue-using-stacks) |
