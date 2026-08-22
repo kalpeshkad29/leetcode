@@ -45,6 +45,7 @@
 | [0682-baseball-game](https://github.com/kalpeshkad29/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/kalpeshkad29/leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/kalpeshkad29/leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/kalpeshkad29/leetcode/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kalpeshkad29/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1004-max-consecutive-ones-iii](https://github.com/kalpeshkad29/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -274,6 +275,7 @@
 | [0503-next-greater-element-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/kalpeshkad29/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/kalpeshkad29/leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/kalpeshkad29/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/kalpeshkad29/leetcode/tree/master/0844-backspace-string-compare) |
 | [1019-next-greater-node-in-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kalpeshkad29/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -302,6 +304,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kalpeshkad29/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/kalpeshkad29/leetcode/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
