@@ -151,6 +151,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kalpeshkad29/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kalpeshkad29/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/kalpeshkad29/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kalpeshkad29/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -250,6 +251,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalpeshkad29/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/kalpeshkad29/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kalpeshkad29/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kalpeshkad29/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/kalpeshkad29/leetcode/tree/master/0071-simplify-path) |
 | [0844-backspace-string-compare](https://github.com/kalpeshkad29/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kalpeshkad29/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -265,6 +267,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kalpeshkad29/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kalpeshkad29/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/kalpeshkad29/leetcode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/kalpeshkad29/leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kalpeshkad29/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -301,6 +304,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kalpeshkad29/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kalpeshkad29/leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
