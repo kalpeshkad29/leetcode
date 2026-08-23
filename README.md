@@ -168,6 +168,7 @@
 | [0048-rotate-image](https://github.com/kalpeshkad29/leetcode/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kalpeshkad29/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/kalpeshkad29/leetcode/tree/master/0202-happy-number) |
+| [0227-basic-calculator-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/kalpeshkad29/leetcode/tree/master/0268-missing-number) |
 | [2119-a-number-after-a-double-reversal](https://github.com/kalpeshkad29/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/kalpeshkad29/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -253,6 +254,7 @@
 | [0022-generate-parentheses](https://github.com/kalpeshkad29/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kalpeshkad29/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/kalpeshkad29/leetcode/tree/master/0071-simplify-path) |
+| [0227-basic-calculator-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0844-backspace-string-compare](https://github.com/kalpeshkad29/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kalpeshkad29/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kalpeshkad29/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -273,6 +275,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/kalpeshkad29/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kalpeshkad29/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kalpeshkad29/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/kalpeshkad29/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/kalpeshkad29/leetcode/tree/master/0496-next-greater-element-i) |
