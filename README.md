@@ -170,6 +170,7 @@
 | [0202-happy-number](https://github.com/kalpeshkad29/leetcode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/kalpeshkad29/leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/kalpeshkad29/leetcode/tree/master/0367-valid-perfect-square) |
 | [2119-a-number-after-a-double-reversal](https://github.com/kalpeshkad29/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/kalpeshkad29/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2607-make-k-subarray-sums-equal](https://github.com/kalpeshkad29/leetcode/tree/master/2607-make-k-subarray-sums-equal) |
@@ -189,6 +190,7 @@
 | [0287-find-the-duplicate-number](https://github.com/kalpeshkad29/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kalpeshkad29/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/kalpeshkad29/leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/kalpeshkad29/leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/kalpeshkad29/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kalpeshkad29/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
