@@ -383,6 +383,7 @@
 | [1327-list-the-products-ordered-in-a-period](https://github.com/kalpeshkad29/leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/kalpeshkad29/leetcode/tree/master/1341-movie-rating) |
 | [1484-group-sold-products-by-the-date](https://github.com/kalpeshkad29/leetcode/tree/master/1484-group-sold-products-by-the-date) |
+| [1517-find-users-with-valid-e-mails](https://github.com/kalpeshkad29/leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/kalpeshkad29/leetcode/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/kalpeshkad29/leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/kalpeshkad29/leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
