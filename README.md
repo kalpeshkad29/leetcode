@@ -140,6 +140,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/kalpeshkad29/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/kalpeshkad29/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kalpeshkad29/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2351-first-letter-to-appear-twice](https://github.com/kalpeshkad29/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kalpeshkad29/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2615-sum-of-distances](https://github.com/kalpeshkad29/leetcode/tree/master/2615-sum-of-distances) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/kalpeshkad29/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -212,6 +213,7 @@
 | [0136-single-number](https://github.com/kalpeshkad29/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kalpeshkad29/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kalpeshkad29/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/kalpeshkad29/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Linked List
 |  |
 | ------- |
@@ -275,6 +277,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/kalpeshkad29/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/kalpeshkad29/leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/kalpeshkad29/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2351-first-letter-to-appear-twice](https://github.com/kalpeshkad29/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/kalpeshkad29/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/kalpeshkad29/leetcode/tree/master/2942-find-words-containing-character) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kalpeshkad29/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -414,6 +417,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/kalpeshkad29/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/kalpeshkad29/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/kalpeshkad29/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2351-first-letter-to-appear-twice](https://github.com/kalpeshkad29/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kalpeshkad29/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kalpeshkad29/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Matrix
