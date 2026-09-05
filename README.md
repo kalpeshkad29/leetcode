@@ -68,6 +68,7 @@
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/kalpeshkad29/leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/kalpeshkad29/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kalpeshkad29/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3477-fruits-into-baskets-ii](https://github.com/kalpeshkad29/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -202,6 +203,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kalpeshkad29/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kalpeshkad29/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kalpeshkad29/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3477-fruits-into-baskets-ii](https://github.com/kalpeshkad29/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -339,6 +341,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kalpeshkad29/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/kalpeshkad29/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/kalpeshkad29/leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [3477-fruits-into-baskets-ii](https://github.com/kalpeshkad29/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -425,4 +428,12 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/kalpeshkad29/leetcode/tree/master/0148-sort-list) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/kalpeshkad29/leetcode/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/kalpeshkad29/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
