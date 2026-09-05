@@ -18,6 +18,7 @@
 | [0054-spiral-matrix](https://github.com/kalpeshkad29/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/kalpeshkad29/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/kalpeshkad29/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/kalpeshkad29/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kalpeshkad29/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -78,6 +79,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kalpeshkad29/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kalpeshkad29/leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/kalpeshkad29/leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/kalpeshkad29/leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/kalpeshkad29/leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/kalpeshkad29/leetcode/tree/master/0141-linked-list-cycle) |
@@ -103,6 +105,7 @@
 | ------- |
 | [0015-3sum](https://github.com/kalpeshkad29/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kalpeshkad29/leetcode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/kalpeshkad29/leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/kalpeshkad29/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kalpeshkad29/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kalpeshkad29/leetcode/tree/master/0217-contains-duplicate) |
@@ -453,4 +456,12 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/kalpeshkad29/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kalpeshkad29/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kalpeshkad29/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
