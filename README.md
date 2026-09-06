@@ -430,6 +430,7 @@
 | [1484-group-sold-products-by-the-date](https://github.com/kalpeshkad29/leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/kalpeshkad29/leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/kalpeshkad29/leetcode/tree/master/1527-patients-with-a-condition) |
+| [1587-bank-account-summary-ii](https://github.com/kalpeshkad29/leetcode/tree/master/1587-bank-account-summary-ii) |
 | [1667-fix-names-in-a-table](https://github.com/kalpeshkad29/leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/kalpeshkad29/leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/kalpeshkad29/leetcode/tree/master/1789-primary-department-for-each-employee) |
