@@ -41,6 +41,7 @@
 | [0268-missing-number](https://github.com/kalpeshkad29/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kalpeshkad29/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/kalpeshkad29/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/kalpeshkad29/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/kalpeshkad29/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -166,6 +167,7 @@
 | [0148-sort-list](https://github.com/kalpeshkad29/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kalpeshkad29/leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/kalpeshkad29/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0324-wiggle-sort-ii) |
 ## Dynamic Programming
 |  |
@@ -215,6 +217,7 @@
 | [0268-missing-number](https://github.com/kalpeshkad29/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kalpeshkad29/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/kalpeshkad29/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/kalpeshkad29/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/kalpeshkad29/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/kalpeshkad29/leetcode/tree/master/0367-valid-perfect-square) |
@@ -461,13 +464,16 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/kalpeshkad29/leetcode/tree/master/0148-sort-list) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/kalpeshkad29/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/kalpeshkad29/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3477-fruits-into-baskets-ii](https://github.com/kalpeshkad29/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/kalpeshkad29/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3477-fruits-into-baskets-ii](https://github.com/kalpeshkad29/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Bucket Sort
 |  |
@@ -489,4 +495,12 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/kalpeshkad29/leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/kalpeshkad29/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/kalpeshkad29/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
