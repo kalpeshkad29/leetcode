@@ -434,6 +434,7 @@
 | [1667-fix-names-in-a-table](https://github.com/kalpeshkad29/leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1693-daily-leads-and-partners](https://github.com/kalpeshkad29/leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/kalpeshkad29/leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/kalpeshkad29/leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/kalpeshkad29/leetcode/tree/master/1789-primary-department-for-each-employee) |
 | [1907-count-salary-categories](https://github.com/kalpeshkad29/leetcode/tree/master/1907-count-salary-categories) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/kalpeshkad29/leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
