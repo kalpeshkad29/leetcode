@@ -19,6 +19,7 @@
 | [0054-spiral-matrix](https://github.com/kalpeshkad29/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/kalpeshkad29/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/kalpeshkad29/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kalpeshkad29/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/kalpeshkad29/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -199,6 +200,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/kalpeshkad29/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kalpeshkad29/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kalpeshkad29/leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/kalpeshkad29/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kalpeshkad29/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -442,6 +444,7 @@
 | [0054-spiral-matrix](https://github.com/kalpeshkad29/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/kalpeshkad29/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/kalpeshkad29/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kalpeshkad29/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
