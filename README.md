@@ -429,6 +429,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/kalpeshkad29/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/kalpeshkad29/leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/kalpeshkad29/leetcode/tree/master/0610-triangle-judgement) |
+| [0620-not-boring-movies](https://github.com/kalpeshkad29/leetcode/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/kalpeshkad29/leetcode/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/kalpeshkad29/leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/kalpeshkad29/leetcode/tree/master/1045-customers-who-bought-all-products) |
