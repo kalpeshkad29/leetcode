@@ -57,6 +57,7 @@
 | [0739-daily-temperatures](https://github.com/kalpeshkad29/leetcode/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kalpeshkad29/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0904-fruit-into-baskets](https://github.com/kalpeshkad29/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/kalpeshkad29/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/kalpeshkad29/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1331-rank-transform-of-an-array](https://github.com/kalpeshkad29/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -108,6 +109,7 @@
 | [0633-sum-of-square-numbers](https://github.com/kalpeshkad29/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/kalpeshkad29/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/kalpeshkad29/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kalpeshkad29/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -129,6 +131,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/kalpeshkad29/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/kalpeshkad29/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kalpeshkad29/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0977-squares-of-a-sorted-array](https://github.com/kalpeshkad29/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/kalpeshkad29/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kalpeshkad29/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/kalpeshkad29/leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
