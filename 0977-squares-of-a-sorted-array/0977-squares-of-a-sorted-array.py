@@ -5,7 +5,7 @@ class Solution:
         for i in range(n):
             result[i]=nums[i]*nums[i]
         
-        result2=sorted(result)
-        return result2
+        result.sort()
+        return result
 
         
