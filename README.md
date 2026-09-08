@@ -464,6 +464,7 @@
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/kalpeshkad29/leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/kalpeshkad29/leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/kalpeshkad29/leetcode/tree/master/1789-primary-department-for-each-employee) |
+| [1795-rearrange-products-table](https://github.com/kalpeshkad29/leetcode/tree/master/1795-rearrange-products-table) |
 | [1907-count-salary-categories](https://github.com/kalpeshkad29/leetcode/tree/master/1907-count-salary-categories) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/kalpeshkad29/leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Heap (Priority Queue)
