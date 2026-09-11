@@ -14,6 +14,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kalpeshkad29/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kalpeshkad29/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/kalpeshkad29/leetcode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/kalpeshkad29/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/kalpeshkad29/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kalpeshkad29/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kalpeshkad29/leetcode/tree/master/0054-spiral-matrix) |
@@ -89,6 +90,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kalpeshkad29/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kalpeshkad29/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kalpeshkad29/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/kalpeshkad29/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/kalpeshkad29/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/kalpeshkad29/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -190,6 +192,7 @@
 | [0005-longest-palindromic-substring](https://github.com/kalpeshkad29/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/kalpeshkad29/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kalpeshkad29/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kalpeshkad29/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kalpeshkad29/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kalpeshkad29/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -333,6 +336,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kalpeshkad29/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kalpeshkad29/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kalpeshkad29/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/kalpeshkad29/leetcode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/kalpeshkad29/leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kalpeshkad29/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -375,6 +379,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kalpeshkad29/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/kalpeshkad29/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kalpeshkad29/leetcode/tree/master/0739-daily-temperatures) |
