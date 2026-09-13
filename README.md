@@ -66,6 +66,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/kalpeshkad29/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kalpeshkad29/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kalpeshkad29/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1695-maximum-erasure-value](https://github.com/kalpeshkad29/leetcode/tree/master/1695-maximum-erasure-value) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/kalpeshkad29/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kalpeshkad29/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kalpeshkad29/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -170,6 +171,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/kalpeshkad29/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/kalpeshkad29/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/kalpeshkad29/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1695-maximum-erasure-value](https://github.com/kalpeshkad29/leetcode/tree/master/1695-maximum-erasure-value) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/kalpeshkad29/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kalpeshkad29/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/kalpeshkad29/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -413,6 +415,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/kalpeshkad29/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/kalpeshkad29/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kalpeshkad29/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1695-maximum-erasure-value](https://github.com/kalpeshkad29/leetcode/tree/master/1695-maximum-erasure-value) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/kalpeshkad29/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Prefix Sum
 |  |
