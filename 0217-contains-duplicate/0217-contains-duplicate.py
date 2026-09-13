@@ -7,8 +7,8 @@ class Solution:
                 my_dict[num]+=1
             else:
                 my_dict[num]=1
-        for count in my_dict.values():
-            if count>1:
+        for value in my_dict.values():
+            if value>1:
                 return True
         
         return False
