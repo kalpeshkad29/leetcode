@@ -1,14 +1,18 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
         n=len(nums)
-        freq={}
-        for i in range(0,n+1):
-            freq[i]=0
-        for num in nums:
-            freq[num]=1
-        for k,v in freq.items():
-            if v==0:
-                return k
-            
+        my_dict={}
+        for i in range(n):
+            if nums[i] in my_dict:
+                my_dict[nums[i]]+=1
+            else:
+                my_dict[nums[i]]=1
+        for i in range(n+1):
+            if i not in my_dict:
+                return i
+                
+        
+
+
             
         
