@@ -76,6 +76,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kalpeshkad29/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/kalpeshkad29/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kalpeshkad29/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/kalpeshkad29/leetcode/tree/master/2540-minimum-common-value) |
 | [2607-make-k-subarray-sums-equal](https://github.com/kalpeshkad29/leetcode/tree/master/2607-make-k-subarray-sums-equal) |
 | [2615-sum-of-distances](https://github.com/kalpeshkad29/leetcode/tree/master/2615-sum-of-distances) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/kalpeshkad29/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -127,6 +128,7 @@
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kalpeshkad29/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/kalpeshkad29/leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2540-minimum-common-value](https://github.com/kalpeshkad29/leetcode/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -181,6 +183,7 @@
 | [2248-intersection-of-multiple-arrays](https://github.com/kalpeshkad29/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/kalpeshkad29/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kalpeshkad29/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2540-minimum-common-value](https://github.com/kalpeshkad29/leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/kalpeshkad29/leetcode/tree/master/2615-sum-of-distances) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/kalpeshkad29/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/kalpeshkad29/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -257,6 +260,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kalpeshkad29/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kalpeshkad29/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kalpeshkad29/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/kalpeshkad29/leetcode/tree/master/2540-minimum-common-value) |
 | [3477-fruits-into-baskets-ii](https://github.com/kalpeshkad29/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
