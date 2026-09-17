@@ -182,6 +182,7 @@
 | [0904-fruit-into-baskets](https://github.com/kalpeshkad29/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/kalpeshkad29/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1695-maximum-erasure-value](https://github.com/kalpeshkad29/leetcode/tree/master/1695-maximum-erasure-value) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kalpeshkad29/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/kalpeshkad29/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kalpeshkad29/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/kalpeshkad29/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
@@ -348,6 +349,7 @@
 | [1446-consecutive-characters](https://github.com/kalpeshkad29/leetcode/tree/master/1446-consecutive-characters) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/kalpeshkad29/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/kalpeshkad29/leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kalpeshkad29/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/kalpeshkad29/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2351-first-letter-to-appear-twice](https://github.com/kalpeshkad29/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/kalpeshkad29/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -434,6 +436,7 @@
 | [0904-fruit-into-baskets](https://github.com/kalpeshkad29/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kalpeshkad29/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1695-maximum-erasure-value](https://github.com/kalpeshkad29/leetcode/tree/master/1695-maximum-erasure-value) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kalpeshkad29/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/kalpeshkad29/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Prefix Sum
 |  |
@@ -511,6 +514,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/kalpeshkad29/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/kalpeshkad29/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/kalpeshkad29/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kalpeshkad29/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/kalpeshkad29/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2248-intersection-of-multiple-arrays](https://github.com/kalpeshkad29/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/kalpeshkad29/leetcode/tree/master/2351-first-letter-to-appear-twice) |
