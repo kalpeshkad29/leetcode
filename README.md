@@ -511,6 +511,7 @@
 | [1873-calculate-special-bonus](https://github.com/kalpeshkad29/leetcode/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/kalpeshkad29/leetcode/tree/master/1890-the-latest-login-in-2020) |
 | [1907-count-salary-categories](https://github.com/kalpeshkad29/leetcode/tree/master/1907-count-salary-categories) |
+| [1965-employees-with-missing-information](https://github.com/kalpeshkad29/leetcode/tree/master/1965-employees-with-missing-information) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/kalpeshkad29/leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Heap (Priority Queue)
 |  |
