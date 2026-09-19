@@ -60,6 +60,7 @@
 | [0735-asteroid-collision](https://github.com/kalpeshkad29/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kalpeshkad29/leetcode/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kalpeshkad29/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0817-linked-list-components](https://github.com/kalpeshkad29/leetcode/tree/master/0817-linked-list-components) |
 | [0904-fruit-into-baskets](https://github.com/kalpeshkad29/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/kalpeshkad29/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/kalpeshkad29/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -179,6 +180,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/kalpeshkad29/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/kalpeshkad29/leetcode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/kalpeshkad29/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0817-linked-list-components](https://github.com/kalpeshkad29/leetcode/tree/master/0817-linked-list-components) |
 | [0904-fruit-into-baskets](https://github.com/kalpeshkad29/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/kalpeshkad29/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1695-maximum-erasure-value](https://github.com/kalpeshkad29/leetcode/tree/master/1695-maximum-erasure-value) |
@@ -300,6 +302,7 @@
 | [0328-odd-even-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/kalpeshkad29/leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [0817-linked-list-components](https://github.com/kalpeshkad29/leetcode/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
