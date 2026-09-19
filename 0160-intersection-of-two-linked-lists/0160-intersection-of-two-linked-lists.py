@@ -6,17 +6,19 @@
 
 class Solution:
     def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> Optional[ListNode]:
-        myset=set()
-        curr=headA
-        newcurr=headB
-        while curr:
-            myset.add(curr)
-            curr=curr.next
-        while newcurr:
-            if newcurr in myset:
-                return newcurr
-            myset.add(newcurr)
-            newcurr=newcurr.next
+        my_set=set()
+        temp1=headA
+        temp2=headB
+        while temp1:
+            my_set.add(temp1)
+            temp1=temp1.next
+        while temp2:
+            if temp2 in my_set:
+                return temp2
+            else:
+                my_set.add(temp2)
+            temp2=temp2.next
+
 
 
 
