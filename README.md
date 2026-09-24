@@ -52,6 +52,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/kalpeshkad29/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/kalpeshkad29/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/kalpeshkad29/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/kalpeshkad29/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/kalpeshkad29/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -121,6 +122,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/kalpeshkad29/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/kalpeshkad29/leetcode/tree/master/0392-is-subsequence) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/kalpeshkad29/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0633-sum-of-square-numbers](https://github.com/kalpeshkad29/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/kalpeshkad29/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -148,6 +150,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/kalpeshkad29/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/kalpeshkad29/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/kalpeshkad29/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/kalpeshkad29/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kalpeshkad29/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/kalpeshkad29/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -392,6 +395,7 @@
 | [0445-add-two-numbers-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/kalpeshkad29/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/kalpeshkad29/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/kalpeshkad29/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/kalpeshkad29/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kalpeshkad29/leetcode/tree/master/0739-daily-temperatures) |
@@ -429,6 +433,7 @@
 | [0042-trapping-rain-water](https://github.com/kalpeshkad29/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/kalpeshkad29/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/kalpeshkad29/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/kalpeshkad29/leetcode/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kalpeshkad29/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -475,6 +480,7 @@
 | [0011-container-with-most-water](https://github.com/kalpeshkad29/leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0324-wiggle-sort-ii](https://github.com/kalpeshkad29/leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/kalpeshkad29/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kalpeshkad29/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2607-make-k-subarray-sums-equal](https://github.com/kalpeshkad29/leetcode/tree/master/2607-make-k-subarray-sums-equal) |
 ## Number Theory
