@@ -362,6 +362,7 @@
 | [0392-is-subsequence](https://github.com/kalpeshkad29/leetcode/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/kalpeshkad29/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0844-backspace-string-compare](https://github.com/kalpeshkad29/leetcode/tree/master/0844-backspace-string-compare) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/kalpeshkad29/leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kalpeshkad29/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kalpeshkad29/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1446-consecutive-characters](https://github.com/kalpeshkad29/leetcode/tree/master/1446-consecutive-characters) |
@@ -395,6 +396,7 @@
 | [0735-asteroid-collision](https://github.com/kalpeshkad29/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kalpeshkad29/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/kalpeshkad29/leetcode/tree/master/0844-backspace-string-compare) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/kalpeshkad29/leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1019-next-greater-node-in-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kalpeshkad29/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kalpeshkad29/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
