@@ -377,6 +377,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/kalpeshkad29/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/kalpeshkad29/leetcode/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kalpeshkad29/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3174-clear-digits](https://github.com/kalpeshkad29/leetcode/tree/master/3174-clear-digits) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kalpeshkad29/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Stack
 |  |
@@ -409,6 +410,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/kalpeshkad29/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/kalpeshkad29/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3174-clear-digits](https://github.com/kalpeshkad29/leetcode/tree/master/3174-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -452,6 +454,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kalpeshkad29/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/kalpeshkad29/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/kalpeshkad29/leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [3174-clear-digits](https://github.com/kalpeshkad29/leetcode/tree/master/3174-clear-digits) |
 | [3477-fruits-into-baskets-ii](https://github.com/kalpeshkad29/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
